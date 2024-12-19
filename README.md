@@ -13,7 +13,7 @@ A **comprehensive and carefully curated list** of the **most highly-rated Linked
 - [Intermediate](#intermediate)
 - [Advanced](#advanced)
 - [Contributing](#contributing)
-- [Repository Link](#repository-link)
+
 
 ## Introduction
 
