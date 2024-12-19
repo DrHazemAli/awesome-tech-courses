@@ -36,6 +36,16 @@ Perfect for those who are new to the field, these courses cover fundamental conc
 | [HTML Essential Training](https://www.linkedin.com/learning/html-essential-training) | Discover how to create and structure web pages using HTML. | James Williamson | Web Development | ★★★★☆ (4.7) |
 | [CSS Essential Training](https://www.linkedin.com/learning/css-essential-training) | Style and layout your web pages effectively using CSS. | Morten Rand-Hendriksen | Web Development | ★★★★☆ (4.7) |
 | [Basic Data Analysis](https://www.linkedin.com/learning/basic-data-analysis) | Introduction to data analysis techniques and tools for beginners. | Robin Hunt | Data Analysis | ★★★★☆ (4.5) |
+| [Introduction to Java](https://www.linkedin.com/learning/introduction-to-java) | Learn the basics of Java programming language and its applications. | David Gassner | Programming | ★★★★☆ (4.6) |
+| [Getting Started with SQL](https://www.linkedin.com/learning/getting-started-with-sql) | Begin your journey with SQL and database management. | Scott Simpson | Database | ★★★★☆ (4.5) |
+| [Introduction to DevOps](https://www.linkedin.com/learning/introduction-to-devops) | Understand the principles and practices of DevOps. | James Wickett | DevOps | ★★★★☆ (4.6) |
+| [Learning Responsive Design](https://www.linkedin.com/learning/learning-responsive-design) | Create websites that look great on any device using responsive design techniques. | Jess Stratton | Web Development | ★★★★☆ (4.6) |
+| [Introduction to Machine Learning](https://www.linkedin.com/learning/introduction-to-machine-learning) | Get an overview of machine learning concepts and applications. | Keith McCormick | AI & Machine Learning | ★★★★☆ (4.5) |
+| [Learning JavaScript Debugging](https://www.linkedin.com/learning/learning-javascript-debugging) | Learn how to debug JavaScript code effectively. | John Sonmez | Programming | ★★★★☆ (4.5) |
+| [Introduction to APIs](https://www.linkedin.com/learning/introduction-to-apis) | Understand what APIs are and how to use them in your projects. | Ray Villalobos | Programming | ★★★★☆ (4.6) |
+| [Getting Started with Adobe Photoshop](https://www.linkedin.com/learning/getting-started-with-adobe-photoshop) | Learn the basics of Adobe Photoshop for graphic design. | Julieanne Kost | Design | ★★★★☆ (4.6) |
+| [Basic Linux for Developers](https://www.linkedin.com/learning/basic-linux-for-developers) | Introduction to Linux for software development. | Mike Pfeiffer | Operating Systems | ★★★★☆ (4.5) |
+| [Introduction to Data Science](https://www.linkedin.com/learning/introduction-to-data-science) | Explore the fundamentals of data science and its applications. | Barton Poulson | Data Science | ★★★★☆ (4.6) |
 
 ### Intermediate
 
@@ -58,6 +68,18 @@ For those with foundational knowledge, these courses delve deeper into specific 
 | [Linux for Developers](https://www.linkedin.com/learning/linux-for-developers) | Gain proficiency in using Linux as a development environment. | James Williamson | Operating Systems | ★★★★☆ (4.6) |
 | [Data Visualization with Python](https://www.linkedin.com/learning/data-visualization-with-python) | Create insightful data visualizations using Python libraries. | Robin Hunt | Data Analysis | ★★★★☆ (4.7) |
 | [Introduction to Kubernetes](https://www.linkedin.com/learning/introduction-to-kubernetes) | Get started with Kubernetes for container orchestration and management. | Nigel Poulton | DevOps | ★★★★☆ (4.5) |
+| [Intermediate Cloud Computing](https://www.linkedin.com/learning/intermediate-cloud-computing) | Deepen your understanding of cloud services and architectures. | David Linthicum | Cloud Computing | ★★★★☆ (4.6) |
+| [Advanced Java Programming](https://www.linkedin.com/learning/advanced-java-programming) | Enhance your Java skills with advanced programming techniques. | Budi Kurniawan | Programming | ★★★★☆ (4.6) |
+| [Advanced React.js](https://www.linkedin.com/learning/advanced-react-js) | Take your React.js skills to the next level with advanced patterns and state management. | Eve Porcello | Front-End Development | ★★★★☆ (4.7) |
+| [DevOps Foundations](https://www.linkedin.com/learning/devops-foundations) | Understand the principles and practices of DevOps for improved collaboration and efficiency. | Ernest Mueller | DevOps | ★★★★☆ (4.5) |
+| [Advanced CSS: Flexbox and Grid](https://www.linkedin.com/learning/advanced-css-flexbox-and-grid) | Master advanced CSS layouts using Flexbox and Grid. | Jen Kramer | Web Development | ★★★★☆ (4.6) |
+| [Introduction to Data Engineering](https://www.linkedin.com/learning/introduction-to-data-engineering) | Learn the basics of data engineering and building data pipelines. | Robin Hunt | Data Engineering | ★★★★☆ (4.5) |
+| [Advanced Git](https://www.linkedin.com/learning/advanced-git) | Improve your Git skills with advanced version control techniques. | Kevin Skoglund | DevOps | ★★★★☆ (4.6) |
+| [SQL for Data Analysis](https://www.linkedin.com/learning/sql-for-data-analysis) | Use SQL to perform data analysis and extract valuable insights. | Robin Hunt | Data Analysis | ★★★★☆ (4.7) |
+| [Intermediate Python](https://www.linkedin.com/learning/intermediate-python) | Build on your Python knowledge with more complex programming concepts. | Joe Marini | Programming | ★★★★☆ (4.6) |
+| [Cloud DevOps Engineer](https://www.linkedin.com/learning/cloud-devops-engineer) | Learn how to manage and deploy applications in the cloud using DevOps practices. | Lynn Langit | Cloud Computing | ★★★★☆ (4.6) |
+| [Advanced JavaScript Techniques](https://www.linkedin.com/learning/advanced-javascript-techniques) | Enhance your JavaScript skills with advanced programming techniques and best practices. | Morten Rand-Hendriksen | Programming | ★★★★☆ (4.6) |
+| [Data Science Foundations](https://www.linkedin.com/learning/data-science-foundations) | Strengthen your understanding of data science principles and methodologies. | Barton Poulson | Data Science | ★★★★☆ (4.6) |
 
 ### Advanced
 
@@ -80,7 +102,20 @@ Designed for experienced professionals, these courses cover cutting-edge technol
 | [Cybersecurity Incident Response](https://www.linkedin.com/learning/cybersecurity-incident-response) | Learn to effectively respond to and manage cybersecurity incidents. | Christopher Hodson | Cybersecurity | ★★★★☆ (4.7) |
 | [Advanced Cloud Architecture](https://www.linkedin.com/learning/advanced-cloud-architecture) | Design and implement scalable and resilient cloud architectures. | Mike Pfeiffer | Cloud Computing | ★★★★☆ (4.7) |
 | [Mastering Data Engineering](https://www.linkedin.com/learning/mastering-data-engineering) | Gain expertise in designing and managing large-scale data engineering projects. | Robin Hunt | Data Engineering | ★★★★☆ (4.6) |
-
+| [Advanced Machine Learning](https://www.linkedin.com/learning/advanced-machine-learning) | Dive into complex machine learning algorithms and their applications. | Derek Bruff | AI & Machine Learning | ★★★★☆ (4.7) |
+| [Cybersecurity Advanced Techniques](https://www.linkedin.com/learning/cybersecurity-advanced-techniques) | Explore advanced cybersecurity strategies and tools to protect systems. | Christopher Hodson | Cybersecurity | ★★★★☆ (4.7) |
+| [Blockchain for Enterprise](https://www.linkedin.com/learning/blockchain-for-enterprise) | Implement blockchain solutions within enterprise environments. | Jonathan Reichental | Blockchain | ★★★★☆ (4.6) |
+| [Advanced DevOps Practices](https://www.linkedin.com/learning/advanced-devops-practices) | Enhance your DevOps workflows with advanced practices and automation techniques. | Ernest Mueller | DevOps | ★★★★☆ (4.6) |
+| [AI for Developers](https://www.linkedin.com/learning/ai-for-developers) | Integrate artificial intelligence into your software development projects. | Adam Geitgey | AI & Machine Learning | ★★★★☆ (4.7) |
+| [Advanced Cloud Security](https://www.linkedin.com/learning/advanced-cloud-security) | Implement robust security measures for cloud-based systems. | Malcolm Shore | Cloud Computing | ★★★★☆ (4.6) |
+| [Advanced Data Science Techniques](https://www.linkedin.com/learning/advanced-data-science-techniques) | Utilize advanced data science methodologies for complex problem-solving. | Barton Poulson | Data Science | ★★★★☆ (4.7) |
+| [Enterprise Architecture Foundations](https://www.linkedin.com/learning/enterprise-architecture-foundations) | Understand the principles of enterprise architecture and its role in organizations. | Mike Pfeiffer | Software Architecture | ★★★★☆ (4.6) |
+| [Advanced Agile Practices](https://www.linkedin.com/learning/advanced-agile-practices) | Implement advanced Agile methodologies for effective project management. | Doug Rose | Project Management | ★★★★☆ (4.6) |
+| [Advanced Data Engineering with Python](https://www.linkedin.com/learning/advanced-data-engineering-with-python) | Build sophisticated data pipelines and engineering solutions using Python. | Robin Hunt | Data Engineering | ★★★★☆ (4.6) |
+| [Machine Learning Operations (MLOps)](https://www.linkedin.com/learning/machine-learning-operations-mlops) | Integrate machine learning models into production environments effectively. | Adam Geitgey | AI & Machine Learning | ★★★★☆ (4.7) |
+| [Advanced Cyber Threat Intelligence](https://www.linkedin.com/learning/advanced-cyber-threat-intelligence) | Develop expertise in identifying and analyzing cyber threats. | Christopher Hodson | Cybersecurity | ★★★★☆ (4.7) |
+| [Advanced Software Architecture](https://www.linkedin.com/learning/advanced-software-architecture) | Design and implement complex software architectures for scalable applications. | Frank Kane | Software Architecture | ★★★★☆ (4.7) |
+| [Advanced Data Governance](https://www.linkedin.com/learning/advanced-data-governance) | Implement data governance frameworks to ensure data quality and compliance. | Robin Hunt | Data Engineering | ★★★★☆ (4.6) |
 
 
 ## Contributing
