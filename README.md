@@ -81,13 +81,13 @@ Designed for experienced professionals, these courses cover cutting-edge technol
 | [Advanced Cloud Architecture](https://www.linkedin.com/learning/advanced-cloud-architecture) | Design and implement scalable and resilient cloud architectures. | Mike Pfeiffer | Cloud Computing | ★★★★☆ (4.7) |
 | [Mastering Data Engineering](https://www.linkedin.com/learning/mastering-data-engineering) | Gain expertise in designing and managing large-scale data engineering projects. | Robin Hunt | Data Engineering | ★★★★☆ (4.6) |
 
----
+
 
 ## Contributing
 
 Contributions are welcome! If you have suggestions for additional courses or improvements to the repository, please open an issue or submit a pull request.
 
 
-[GitHub: DrHazemAli/awesome-tech-courses](https://github.com/DrHazemAli/awesome-tech-courses)
+Repo: [DrHazemAli/awesome-tech-courses](https://github.com/DrHazemAli/awesome-tech-courses)
 
 *Note: The course links are placeholders and should be updated with actual URLs from LinkedIn Learning.*
